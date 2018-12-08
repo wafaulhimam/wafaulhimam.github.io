@@ -3,7 +3,7 @@ import {
     Route,
     NavLink,
     BrowserRouter
-} from 'react-router-do m';
+} from 'react-router-dom';
 import Home from './Home';
 import Stuff from './Stuff';
 import Contact from './Contact';
