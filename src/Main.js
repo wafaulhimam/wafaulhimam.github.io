@@ -13,7 +13,7 @@ class Main extends Component {
     return (
         <BrowserRouter>
         <div>
-          <h1>Wafa Home</h1>
+          <h1>Wafaulhimam</h1>
           <ul className="header">
             <li><NavLink exact to="/">Home</NavLink></li>
             <li><NavLink to="/stuff">Stuff</NavLink></li>
